@@ -1,8 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chintia Agustin
 =======================================================================================================================================
 
-A girl love code and read abook, mostly half of her life is for coding and half for explore new things. 💻 Currently studying at Universitas Muhammadiyah Bandung in Informatic Engineering Major 🔭 I’m interested in Software Development & Software Quality Assurance 🪄 Mostly code using Kotlin, Python, JavaScript and PHP 🌱 Still learn Flutter & Automation testing
-
+A girl love code and read abook, mostly half of her life is for coding and half for explore new things. 
+* 💻 Currently studying at Universitas Muhammadiyah Bandung in Informatic Engineering Major 
+* 🔭 I’m interested in Software Development & Software Quality Assurance 
+* 🪄 Mostly code using Kotlin, Python, JavaScript and PHP 
+* 🌱 Still learn Flutter & Automation testing
 * ✉️  You can contact me at [chintiaa1908@gmail.com](mailto:chintiaa1908@gmail.com)
 
 ### Skills
